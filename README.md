@@ -7,6 +7,32 @@ Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, a gym add
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liamzroma@gmail.com)](mailto:liamzroma@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0D8BF0?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/liamzety/)](https://www.facebook.com/liamzety/)
 
+## Who am I?
+ ```javascript
+ 
+ function WhoAmI =() => {
+  const [name, setName] = useState('Liam Zety');
+  
+  const [currentEdu, setCurrentEdu] = useState('Student @ Coding Academy.');
+  
+  const hobbies = [
+        'Lifting Heavy Weights!',
+				'Coding!',
+				'Playing Video Games',
+				'History'
+			];
+ 
+  get getLocation() {
+  	retrun Israel_Central();
+  }
+  
+  get ambition() {
+    return 'Searching for my first job as a Web Developer!';
+  }
+  
+}
+ ```
+
 ## ⚡ Some Of The Technologies I Use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
