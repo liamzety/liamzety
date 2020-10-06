@@ -1,13 +1,14 @@
-### Liam Zety
+## Liam Zety
 
-Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, a gym addict and a code writer superhero :smirk: Find out more about me & feel free to connect with me here:
+Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, a gym addict and a code writer superhero :smirk: Find out more about me & feel free to connect with me.
 
+### 📫 Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-zety/)](https://www.linkedin.com/in/liam-zety/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/liam_zety/)](https://instagram.com/liam_zety)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liamzroma@gmail.com)](mailto:liamzroma@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0D8BF0?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/liamzety/)](https://www.facebook.com/liamzety/)
 
-## Who am I?
+### 👨‍💻 Who am I?
  ```javascript
  
  function WhoAmI =() => {
@@ -33,7 +34,7 @@ Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, a gym add
 }
  ```
 
-## ⚡ Some Of The Technologies I Use
+## 💻 Some Of The Technologies I Use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
