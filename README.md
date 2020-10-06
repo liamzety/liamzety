@@ -1,30 +1,33 @@
 ### Liam Zety
 
+Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, a gym addict and a code writer superhero :smirk: Find out more about me & feel free to connect with me here:
 
-<!-- icons with padding -->
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/liam-zety//)](https://www.linkedin.com/in/https://www.linkedin.com/in/liam-zety//)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/liam_zety/)](https://instagram.com/liam_zety)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liamzroma@gmail.com)](mailto:liamzroma@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0D8BF0?style=flat-square&logo=Facebook&logoColor=white&link=mailto:liamzroma@gmail.com)](mailto:liamzroma@gmail.com)
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+## ⚡ Some Of The Technologies I Use
 
-<!-- icons without padding -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-purple?style=flat-square&logo=scss)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
+![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liamzety&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamzety&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=liamzety.liamzety)
