@@ -2,7 +2,7 @@
 
 Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, a gym addict and a code writer superhero :smirk: Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/liam-zety//)](https://www.linkedin.com/in/https://www.linkedin.com/in/liam-zety//)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/liam-zety/)](https://www.linkedin.com/in/https://www.linkedin.com/in/liam-zety/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/liam_zety/)](https://instagram.com/liam_zety)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liamzroma@gmail.com)](mailto:liamzroma@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0D8BF0?style=flat-square&logo=Facebook&logoColor=white&link=mailto:liamzroma@gmail.com)](mailto:liamzroma@gmail.com)
