@@ -1,6 +1,8 @@
 ## Liam Zety
 
-Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, a gym addict and a code writer superhero :smirk: Find out more about me & feel free to connect with me.
+**Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, </br>
+a gym addict and a code writer superhero :smirk:  </br>
+Find out more about me & feel free to connect with me.**
 
 ### 📫 Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-zety/)](https://www.linkedin.com/in/liam-zety/)
