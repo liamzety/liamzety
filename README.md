@@ -15,8 +15,7 @@ Find out more about me & feel free to connect with me.**
  
  function WhoAmI =() => {
   const [name, setName] = useState('Liam Zety');
-  
-  const [currentEdu, setCurrentEdu] = useState('Student @ Coding Academy.');
+  const [currentEdu, setCurrentEdu] = useState('Graduate @ Coding Academy.');
   
   const hobbies = [
         'Lifting Heavy Weights!',
@@ -25,11 +24,11 @@ Find out more about me & feel free to connect with me.**
 				'History'
 			];
  
-  get getLocation() {
+  functiion getLocation() {
   	retrun Israel_Central();
   }
   
-  get ambition() {
+  function ambition() {
     return 'Searching for my first job as a Web Developer!';
   }
   
