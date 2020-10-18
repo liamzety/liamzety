@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/gmM1QsW/liam-logo.png" width="350"  />
+<img src="https://i.ibb.co/1zV4ML4/liam-logo.png" width="300"  />
 
 **Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, </br>
 a gym addict and a code writer superhero :smirk:  </br>
