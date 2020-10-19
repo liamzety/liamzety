@@ -29,7 +29,7 @@ Find out more about me & feel free to connect with me.**
   }
   
   function ambition() {
-    return 'Searching for my first job as a Web Developer!';
+    return 'Searching for a full time job as a Web Developer!';
   }
   
 }
