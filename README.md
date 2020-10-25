@@ -24,8 +24,8 @@ Find out more about me & feel free to connect with me.**
 				'History'
 			];
  
-  functiion getLocation() {
-  	retrun Israel_Central();
+  function getLocation() {
+  	return Israel_Central();
   }
   
   function ambition() {
