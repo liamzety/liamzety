@@ -1,8 +1,7 @@
 <img src="https://i.ibb.co/1zV4ML4/liam-logo.png" width="300"  />
 
-**Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth, </br>
-a gym addict and a code writer superhero :smirk:  </br>
-Find out more about me & feel free to connect with me.**
+**Hi! i am Liam Zety, A Full-Stack Developer, A gaming geek since birth and a gym addict :smirk:** </br>
+**Find out more about me & feel free to connect with me.**
 
 ### 📫 Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-zety/)](https://www.linkedin.com/in/liam-zety/)
