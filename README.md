@@ -10,7 +10,10 @@ Find out more about me & feel free to connect with me.**
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liamzroma@gmail.com)](mailto:liamzroma@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0D8BF0?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/liamzety/)](https://www.facebook.com/liamzety/)
 
-### :exclamation: My Portfolio https://liamzety.herokuapp.com :exclamation:
+---
+
+### :exclamation: :exclamation: My Portfolio https://liamzety.herokuapp.com 
+---
 
 ### 👨‍💻 Who am I?
  ```javascript
