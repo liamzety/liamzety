@@ -24,7 +24,7 @@
   const hobbies = [
         'Lifting Heavy Weights!',
 				'Coding!',
-				'Playing Video Games',
+				'Gaming',
 				'History'
 			];
  
